@@ -5,3 +5,9 @@ This Software Development Kit (SDK) provides demonstration source code and a reu
 ```
 pod 'MagtekiOSSDK'
 ```
+
+# Release Notes
+
+## v0.0.3
+
+* MTSCRA updated to v2.0.1
